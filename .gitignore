@@ -1,0 +1,12 @@
+
+.vs/
+scripts_bits_lideranca.ssmssln
+
+.env
+.DS_Store
+serverInfors.txt
+
+package-lock.json
+node_modules/
+
+ 
