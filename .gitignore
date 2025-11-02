@@ -1,6 +1,7 @@
 
 .vs/
 scripts_bits_lideranca.ssmssln
+scripts_bits_lideranca.ssmssqlproj
 
 .env
 .DS_Store
